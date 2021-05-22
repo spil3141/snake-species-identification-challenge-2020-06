@@ -4,4 +4,4 @@ Snake species images classification using deep learning techniques.
 
 
 AICrowd Challenge Link: 
- - [AICrowd 2020-04](https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge)
+ - [AICrowd 2020-06](https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge)
